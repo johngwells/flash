@@ -1,0 +1,10 @@
+.FlashCardButton {
+  margin-top: 5px;
+  margin-left: 5px;
+  border: 1px solid lightgreen;
+  padding: 10px;
+  background-color: lightskyblue;
+  font: inherit;
+  color: whitesmoke;
+  cursor: pointer;
+}
